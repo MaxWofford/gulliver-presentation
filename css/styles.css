@@ -248,6 +248,11 @@ a:focus {
     transform:         translateZ(50px);
 }
 
+.slide h1 {
+    font-size: 60px;
+    line-height: 72px;
+}
+
 #title .footnote {
     font-size: 32px;
 }
