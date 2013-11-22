@@ -253,7 +253,16 @@ a:focus {
     line-height: 72px;
 }
 
+#ing h1 {
+    font-size: 60px;
+    line-height: 72px;
+}
+
 #title .footnote {
+    font-size: 32px;
+}
+
+.footnote {
     font-size: 32px;
 }
 
